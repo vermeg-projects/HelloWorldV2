@@ -147,5 +147,6 @@
     "coveralls": "nyc report --reporter=text-lcov | coveralls",
     "test": "xo && nyc ava"
   },
-  "version": "7.1.0"
+  "version": "7.1.1"
 }
+
